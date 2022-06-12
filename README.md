@@ -1,0 +1,2 @@
+# testplat
+testplat of Django
